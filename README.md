@@ -1,6 +1,9 @@
  
- ​#​ ​some-configs 
+ ​#​ ​some-configs
+<html>
+<head>
  ​<h2>Полезные ссылки:</h2> 
+</head>
 <body> 
 ​ <a href="https://habr.com/ru/post/305400/"> Пособие по Ansible</a><br> 
  ​<a href="https://winitpro.ru/index.php/2019/08/13/nastrojka-internet-shlyuza-s-nat-i-port-forward-linux/">NAT и Port Forwarding в linux</a> + не забудь sysctl, <a href="https://www.cyberciti.biz/faq/how-to-save-iptables-firewall-rules-permanently-on-linux/">iptables-save/iptables-restore</a><br> 
@@ -13,3 +16,4 @@
  ​<a href="https://serverspace.ru/support/help/configuring-samba/">SMB</a><br> 
  ​<a href=https://habr.com/ru/post/137587/>Еще Bind9</a>
 </body>
+</html>
